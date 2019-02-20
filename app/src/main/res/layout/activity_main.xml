@@ -31,6 +31,7 @@
         android:gravity="center_vertical"
         android:inputType="number"
         android:textColor="@android:color/black"
+        app:cursorColor="@android:color/white"
         app:itemCount="6"
         app:itemSpacing="6dp"
         app:layout_constraintBottom_toTopOf="@+id/btn_submit"
